@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Eve Adams",
+    "id": "U09MA24KD67",
+    "canParkCar": true,
+    "parkingCounter": 53,
+    "creationStamp": 1725983511000,
+    "lastParkingStamp": 1726066945310,
+    "timezone": "Africa/Johannesburg"
+  },
+  {
+    "name": "Charlie Brown",
+    "id": "U07JK47KD92",
+    "canParkCar": true,
+    "parkingCounter": 53,
+    "creationStamp": 1725983613938,
+    "lastParkingStamp": 1726066945310,
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "name": "Diana Prince",
+    "id": "U07WJK23A77",
+    "canParkCar": true,
+    "parkingCounter": 54,
+    "creationStamp": 1725983010000,
+    "lastParkingStamp": 1726066945310,
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "name": "j.​antonio",
+    "id": "U07AA49AF63",
+    "canParkCar": true,
+    "parkingCounter": 54,
+    "creationStamp": 1725983785101,
+    "lastParkingStamp": 1726066945310,
+    "timezone": "Europe/London"
+  },
+  {
+    "name": "Bob Smith",
+    "id": "U07LK38AV9L",
+    "canParkCar": true,
+    "parkingCounter": 53,
+    "creationStamp": 1725983410000,
+    "lastParkingStamp": 1726066918778,
+    "timezone": "Europe/Paris"
+  },
+  {
+    "name": "Rodrigo Figueiredo",
+    "id": "U07LKCDLB7G",
+    "canParkCar": true,
+    "parkingCounter": 53,
+    "creationStamp": 1726049520205,
+    "lastParkingStamp": 1726066918778,
+    "timezone": "Europe/London"
+  },
+  {
+    "name": "Alice Johnson",
+    "id": "U08DFG89J0Q",
+    "canParkCar": true,
+    "parkingCounter": 53,
+    "creationStamp": 1725983110000,
+    "lastParkingStamp": 1726066029412,
+    "timezone": "America/New_York"
+  }
+]
