@@ -6,13 +6,14 @@ jobs:
     steps:
       - run:
           name: ngrok install
-          command: sudo apt update && sudo apt install ngrok
+          command: sudo apt install ngrok
       - run:
           name: ngrok login
           command: ngrok config add-authtoken 2lsr1PXYfHZ8wgLtdZYDzA7E6OB_42LS3yzkywFP5cVKxy5Zk
       - run:
           name: ngrok start
           command: ngrok http 3000
+          background: true
       - run:
           name: Install dependencies
           command: npm install
